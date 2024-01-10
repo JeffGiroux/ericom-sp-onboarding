@@ -29,6 +29,8 @@ pip3 install -r requirements.txt
 
 ## Usage
 
+### Onboarding
+
 1. TBD - Update variables
 
 2. Execute python command.
@@ -43,10 +45,31 @@ Example:
 python3 sp_onboard.py 555-444-333-222-111 keyAAABBBCCC
 
 Authenticating and retrieving token...
-TBD...status
+TBD...status "tenant onboarded"
 Done!
 ```
 
 3. View results
 
 TBD - validate tenant in Ericom. Validate NCM configs.
+
+
+### Decommissioning
+
+1. TBD - Update variables
+
+2. Execute python command.
+
+Syntax:
+```
+python3 sp_decommission.py <Tenant ID> <API Key>
+```
+
+Example:
+```
+python3 sp_decommission.py 555-444-333-222-111 keyAAABBBCCC
+
+Authenticating and retrieving token...
+TBD...status "tenant decommed"
+Done!
+```
