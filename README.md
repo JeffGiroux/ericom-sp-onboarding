@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This code will automate Service Provider onboarding for [Ericom Security](https://www.ericom.com). The API endpoints for Ericom will be called to setup the tenant and filtering policies. 
+This code will automate Service Provider onboarding for [Ericom Security](https://www.ericom.com). The API endpoints for Ericom will be called to setup the tenant and traffic filtering policies. 
 
 
 ## Requirements
