@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This code will automate Service Provider onboarding for NetCloud Manager (NCM) and [Ericom Security](https://www.ericom.com) integration. The API endpoints for NCM and Ericom will be called to setup the tenant and filtering policies. 
+This code will automate Service Provider onboarding for [Ericom Security](https://www.ericom.com). The API endpoints for Ericom will be called to setup the tenant and filtering policies. 
 
 
 ## Requirements
@@ -51,7 +51,7 @@ Done!
 
 3. View results
 
-TBD - validate tenant in Ericom. Validate NCM configs.
+TBD - validate tenant and policies in Ericom.
 
 
 ### Decommissioning
